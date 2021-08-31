@@ -1,5 +1,5 @@
 
-Descrição: 
+Descrição: Programa que pega informações de consumo de energia de uma cidade, faz alguns plots com elas e utiliza moving average para tentar prever valores de 2015 usando dados passados
 
 
 Licença: 2-clause BSD License
